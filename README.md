@@ -40,7 +40,7 @@ Developed an RTOS kernel for ARM Cortex-M4/M7 microcontrollers, focusing on dete
 
 **Technologies:** C, ARM Cortex-M, GCC, GDB, CMake
 
-### 2. VTOL Aircraft — Embedded Flight Control
+### 2. Fixed-Wings VTOL drone — Embedded Flight Control
 
 Developed the embedded control system for a fixed-wing VTOL aircraft as part of an engineering project.
 
