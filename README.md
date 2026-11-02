@@ -56,48 +56,62 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 
 ## 🧰 Tech Stack
 
-**Languages**
+**Programming**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Embedded & RTOS**
+**Embedded Systems**
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M4%2FM7-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4EA64C?style=for-the-badge)
-![Teensy](https://img.shields.io/badge/Teensy%204.1-E4003A?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Protocols**
-
+![Bare-Metal](https://img.shields.io/badge/Bare--Metal-333333?style=for-the-badge)
+![HAL Drivers](https://img.shields.io/badge/HAL%20Drivers-333333?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I%C2%B2C-555555?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge)
-![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-555555?style=for-the-badge)
 
-**Toolchain & Debug**
+**RTOS & Kernel**
 
+![RTOS Kernel](https://img.shields.io/badge/RTOS%20Kernel%20Dev-C0392B?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4EA64C?style=for-the-badge)
+![Zephyr](https://img.shields.io/badge/Zephyr%20OS-7B3FE4?style=for-the-badge&logo=zephyrproject&logoColor=white)
+
+**Software V&V**
+
+![Unit Testing](https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-2E8B57?style=for-the-badge)
+![Test Design](https://img.shields.io/badge/Test%20Case%20Design-2E8B57?style=for-the-badge)
+![Fault Handling](https://img.shields.io/badge/Fault%20Handling-2E8B57?style=for-the-badge)
+![RTRT](https://img.shields.io/badge/RTRT-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![DO-178C](https://img.shields.io/badge/DO--178C%20Fundamentals-003A70?style=for-the-badge)
+
+**Debugging & Tools**
+
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-555555?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Ninja](https://img.shields.io/badge/Ninja-000000?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![OpenOCD](https://img.shields.io/badge/OpenOCD-555555?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-0A5EA8?style=for-the-badge)
 
-**Control & Design**
+**Control & Estimation**
 
 ![PID](https://img.shields.io/badge/PID-6E40C9?style=for-the-badge)
 ![MPC](https://img.shields.io/badge/MPC-6E40C9?style=for-the-badge)
-![Kalman](https://img.shields.io/badge/Kalman%20Filter-6E40C9?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-0A5EA8?style=for-the-badge)
+![State-Space](https://img.shields.io/badge/State--Space%20Modeling-6E40C9?style=for-the-badge)
+![Kalman](https://img.shields.io/badge/Kalman%20Filtering%20(LKF%2FEKF)-6E40C9?style=for-the-badge)
 
-**AI & Vision**
+**AI & Computer Vision**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
