@@ -54,15 +54,50 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-**Programming:** C, C++, Python, MATLAB
-**Embedded Systems:** STM32, ARM Cortex-M4/M7, bare-metal programming, HAL driver development
-**RTOS & Debugging:** FreeRTOS, RTOS kernel development, GDB, OpenOCD
-**Communication:** CAN, UART, I²C, SPI
-**Control & Estimation:** PID, MPC, state-space modeling, Kalman filtering (LKF/EKF), sensor fusion
-**Tools & Testing:** STM32CubeIDE, STM32CubeMX, VS Code, Ninja, GCC, CMake, Git, Unity (C unit testing), HIL, Proteus
-**AI & Computer Vision:** Neural networks fundamentals, CNN, YOLO, TensorFlow, TensorFlow Lite
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Embedded & RTOS**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M4%2FM7-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4EA64C?style=for-the-badge)
+![Teensy](https://img.shields.io/badge/Teensy%204.1-E4003A?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Protocols**
+
+![I2C](https://img.shields.io/badge/I%C2%B2C-555555?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-555555?style=for-the-badge)
+
+**Toolchain & Debug**
+
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Ninja](https://img.shields.io/badge/Ninja-000000?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-555555?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+
+**Control & Design**
+
+![PID](https://img.shields.io/badge/PID%20%2F%20MPC-6E40C9?style=for-the-badge)
+![Kalman](https://img.shields.io/badge/Kalman%20Filter-6E40C9?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-0A5EA8?style=for-the-badge)
+
+**AI & Vision**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
