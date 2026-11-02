@@ -15,7 +15,7 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 - 🔭 Building an RTOS kernel from scratch and bare-metal STM32 drivers.
 - ✈️ Interested in flight dynamics, control laws, UAVs, and avionics.
 - ⚙️ Exploring real-time systems, microcontroller architecture, and hardware interfaces.
-- 🎯 **Seeking a 4–6 month internship starting in February** in embedded systems.
+- 🎯 **Seeking a 4–6 month internship starting in February 2027** in embedded systems.
 
 ---
 
@@ -44,12 +44,12 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 
 ### Engineering Degree — Aerospace Engineering
 **Cadi Ayyad University, ENSA Safi** · *2024 – Present*
-🏅 High Honors · **Rank 1/42** (Years 1–2)
+🏅 High Honors (Years 1–2)
 *Embedded Systems, Electronics, Aerodynamics & Flight Mechanics, Aircraft Electrical Systems and Control*
 
 ### Preparatory Engineering Program — Sciences and Technologies
 **Mohammed 1st University, ENSA Oujda** · *2022 – 2024*
-🏅 High Honors · **Rank 5/300**
+🏅 High Honors 
 *Analog Electronics, Algorithms, C Programming, MATLAB, Mathematics for Physics*
 
 ---
@@ -57,17 +57,11 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 ## 🛠️ Technical Skills
 
 **Programming:** C, C++, Python, MATLAB
-
 **Embedded Systems:** STM32, ARM Cortex-M4/M7, bare-metal programming, HAL driver development
-
 **RTOS & Debugging:** FreeRTOS, RTOS kernel development, GDB, OpenOCD
-
 **Communication:** CAN, UART, I²C, SPI
-
 **Control & Estimation:** PID, MPC, state-space modeling, Kalman filtering (LKF/EKF), sensor fusion
-
 **Tools & Testing:** STM32CubeIDE, STM32CubeMX, VS Code, Ninja, GCC, CMake, Git, Unity (C unit testing), HIL, Proteus
-
 **AI & Computer Vision:** Neural networks fundamentals, CNN, YOLO, TensorFlow, TensorFlow Lite
 
 ---
@@ -135,23 +129,15 @@ English (B2) · French (C1)
 
 > *"Simplicity is prerequisite for reliability."*
 > — **Edsger W. Dijkstra**
-> <sub>Why I favor small, deterministic kernels over clever ones.</sub>
 
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
 > — **Antoine de Saint-Exupéry**, aviator and writer
-> <sub>My rule when trimming a kernel down to 24 KB of Flash.</sub>
 
 > *"Premature optimization is the root of all evil."*
 > — **Donald Knuth**
-> <sub>Measure first, then optimize. Every cycle I shave off a context switch is backed by a measurement.</sub>
-
-> *"Earth is the cradle of humanity, but one cannot live in a cradle forever."*
-> — **Konstantin Tsiolkovsky**
-> <sub>The reason I chose aerospace.</sub>
 
 > *"Osons inventer l'avenir."* (*"Let us dare to invent the future."*)
 > — **Thomas Sankara**
-> <sub>A reminder from Burkina Faso that building things from scratch is the point.</sub>
 
 ---
 
