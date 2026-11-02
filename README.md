@@ -91,8 +91,8 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 **Control & Design**
 
 ![PID](https://img.shields.io/badge/PID%20%2F%20MPC-6E40C9?style=for-the-badge)
+![MPC](https://img.shields.io/badge/PID%20%2F%20MPC-6E40C9?style=for-the-badge)
 ![Kalman](https://img.shields.io/badge/Kalman%20Filter-6E40C9?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-0A5EA8?style=for-the-badge)
 
 **AI & Vision**
