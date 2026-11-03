@@ -15,7 +15,6 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 - 🔭 Building an RTOS kernel from scratch and bare-metal STM32 drivers.
 - ✈️ Interested in flight dynamics, control laws, UAVs, and avionics.
 - ⚙️ Exploring real-time systems, microcontroller architecture, and hardware interfaces.
-- 🎯 **Seeking a 4–6 month internship starting in February 2027** in embedded systems.
 
 ---
 
