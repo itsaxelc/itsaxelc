@@ -18,7 +18,7 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 
 ---
 
-## 💼 Experience
+<h2><span style="color:#58A6FF;">💼 Experience</span></h2>
 
 ### Embedded Systems Intern — RTOS Kernel Team Lead
 **SPACEBORN Pvt. Ltd.** · Remote (Chennai, India) · *July 2026 – September 2026*
