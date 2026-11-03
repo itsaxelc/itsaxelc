@@ -19,7 +19,7 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 ---
 
 <h2>
-  <img src="https://img.shields.io/badge/💼_EXPERIENCE-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-58A6FF?style=flat-square" />
 </h2>
 
 ### Embedded Systems Intern — RTOS Kernel Team Lead
