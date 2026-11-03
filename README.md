@@ -18,7 +18,9 @@ My interests lie at the intersection of **avionics, real-time embedded systems, 
 
 ---
 
-<h2><span style="color:#58A6FF;">💼 Experience</span></h2>
+<h2>
+  <img src="https://img.shields.io/badge/💼_EXPERIENCE-1F6FEB?style=for-the-badge" />
+</h2>
 
 ### Embedded Systems Intern — RTOS Kernel Team Lead
 **SPACEBORN Pvt. Ltd.** · Remote (Chennai, India) · *July 2026 – September 2026*
